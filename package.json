@@ -2,7 +2,7 @@
   "name": "unit_3_group_be",
   "version": "1.0.0",
   "description": "What could go wrong in the Backend?",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
