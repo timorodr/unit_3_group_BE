@@ -2,6 +2,8 @@
 
 **Will be Deployed on Render**
 
+### Trello Board: [Bookmarks | Trello](https://trello.com/b/PbczSanH/bookmarks)
+
 ## List of Dependencies
 
 - dotenv
